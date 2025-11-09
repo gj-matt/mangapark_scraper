@@ -14,26 +14,26 @@ pip install pandas requests beautifulsoup4
 ```
 
 ## Installation
-1. Clone the repository:
+Clone the repository:
 ```
 git clone https://github.com/gj-matt/mangapark_scraper.git
 cd mangapark_scraper
 ```
 
-3. (Optional) Create and activate a virtual environment:
+(Optional) Create a virtual environment:
 ```
 python -m venv venv
 ```
-# macOS / Linux
+activate venv on macOS / Linux
 ```
 source venv/bin/activate
 ```
-# Windows
+activate on Windows
 ```
 venv\Scripts\activate
 ```
 
-3. Install dependencies:
+Install dependencies:
 If the repo has requirements.txt:
 ```
 pip install -r requirements.txt
